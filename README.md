@@ -1,4 +1,4 @@
-# SWSE
+# Science on Water, Soil, and Ecosystems
 
 ## Overview
 
@@ -21,13 +21,14 @@ The objectives of this course are given below.
 The following topics and sub-topics will be covered during this course.
 
 1. Introduction
-2. Moisture in the atmosphere
+2. Water in the atmosphere
     - Vapor pressure
     - Relative humidity
     - Dew point
     - Adiabatic processes
     - Cloud formation
-3. Atmospheric circulation
+3. Weather and climate
+    - Atmospheric circulation
     - Wind flow
     - Global air circulation
     - Regional wind and weather systems
