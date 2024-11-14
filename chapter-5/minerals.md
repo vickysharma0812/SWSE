@@ -95,6 +95,14 @@ In geology, the crystalline structure of a mineral is crucial for its identifica
 Halite cubes from the Stassfurt Potash Deposit
 ```
 
+The ball and stick model of halite crystal is given below:
+
+```{figure} ./figures/halite-1.png
+:label: halite-1
+:align: center
+Ball and stick model of Halite crystal.
+```
+
 ```{figure} https://upload.wikimedia.org/wikipedia/commons/c/ce/Quartz_Br%C3%A9sil.jpg
 :label: quartz
 :align: center
